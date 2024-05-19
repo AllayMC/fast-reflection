@@ -34,7 +34,7 @@ dependencies {
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${version_junit}"
 }
 
-group 'me.sunlan'
+group 'org.allaymc'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = JavaVersion.VERSION_1_8
